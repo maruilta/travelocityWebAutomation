@@ -1,0 +1,7 @@
+com\automation\pages\Booking.class
+com\automation\pages\Departure.class
+com\automation\pages\BasePage.class
+com\automation\pages\ReturnFlight.class
+com\automation\pages\CheckTrip.class
+com\automation\pages\PassengersInformation.class
+com\automation\pages\DatePicker.class
